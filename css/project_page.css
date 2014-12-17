@@ -1,0 +1,96 @@
+/*=====================================
+Benefaction Web Portfolio
+File: style.css
+Author: Tyler Lubbers
+Date: Spring 2014
+======================================*/
+
+/*========================== PROJECT PAGE ==========================*/
+
+#project_page .project_page{
+	padding: 75px 0 0 0;
+}
+
+.project_page {
+	width:100%;
+	position:relative;
+	background-color: #2997ab;
+
+}
+
+.project_page .slogan {
+	text-align: center;
+	padding: 10px;
+}
+
+.project_page .icon {
+	text-align: center;
+	color: #fff;
+	padding: 10px;
+}
+
+
+
+.project_page .slogan h2 {
+	color: #fff;
+	text-shadow: none;
+	font-size: 52px;
+	line-height: 52px;
+	font-weight: 700;
+	font-family: Montserrat, sans-serif;
+	background-color: rgba(0, 0, 0, 0);
+	text-decoration: none;
+	text-transform: uppercase;
+	border-width: 0px;
+	border-color: 000;
+	border-style: none;
+	
+}
+
+
+.project_page .status {
+	padding: 10px;
+	text-align: right;
+	background-color: #f4f4f4;
+}
+.project_page .status h4 {
+	color: #666;
+  	font-size: 18px;
+  	line-height: 18px;
+  	font-family: Montserrat, sans-serif;
+}
+/*=====================PROJECT STORY ======================*/
+.project_page_story .story_title {
+	padding-top: 10px;
+	background color: #f8f8f8;
+	text-align:left;
+
+}
+
+.story-gallery ul {         
+          padding:0 0 0 0;
+          margin:0 0 0 0;
+}
+.story-gallery ul li {     
+          list-style:none;
+          margin-bottom:25px;           
+}
+.story-gallery ul li img {
+          cursor: pointer;
+}
+
+.project_page_story .story_title h2{
+
+	font-family: Montserrat, sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	text-shadow: 0px 1px 0px white;
+	margin: 0;
+	padding: 0;
+	text-rendering: optimizelegibility;
+	-webkit-font-smoothing: antialiased;
+	color: #666;
+	font-size: 32px;
+    line-height: 48px;
+}
+}
